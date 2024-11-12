@@ -1,6 +1,7 @@
 # L2R
 wandb/
 data/
+data_incre_aug/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

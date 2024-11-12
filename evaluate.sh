@@ -1,0 +1,1 @@
+python evaluate_lotte.py -q ./data/lotte -d ./data/lotte -r ./data/lotte
